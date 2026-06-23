@@ -1,0 +1,6 @@
+{
+  "name": "PanBio",
+  "description": "Agrigenomics Multi-Omics Trait Discovery and Tertiary Analysis Ecosystem bridging the genotype-to-phenotype gap in complex plant species with 3D genomic layout, linear pangenome track views, and phenotypic cascades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

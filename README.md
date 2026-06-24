@@ -10,6 +10,12 @@ PanBio is a state-of-the-art Agrigenomics Multi-Omics Trait Discovery and Tertia
 - **Variant Dissection Suite**: Data-dense drawer allowing biological scientists to inspect, search, filter, and sort structural variants by coordinated locus, length, prior scoring, and QTL correlation.
 - **Omics Matrix Parsing Sandbox**: Integrated live parser simulation that supports analyzing custom multi-omics variant spreadsheets or matrices directly on the client side.
 
+> An interactive, high-fidelity biological analysis suite designed for pangenomic visual modeling.
+
+![PanBio Animated Dashboard Demo](./assets/dashboard-walkthrough.gif)
+
+[🔗 Launch Live Interactive Demo](https://khabatv.github.io/PanBio)
+
 ## Getting Started
 
 ### Prerequisites
